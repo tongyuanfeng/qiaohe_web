@@ -27,8 +27,12 @@ menu:
     url: http://weibo.com/u/3894826362?refer_flag=1001030201_&is_all=1
     target: _blank
   weixin:
-    text: 微信
+    text: 微信公众号
     url: https://raw.githubusercontent.com/tongyuanfeng/qiaohe_web/master/img/qrcode_for_gh_d22a63ae6011_1280.jpg
+    target: _blank
+  wechat:
+    text: 加微信好友
+    url: https://raw.githubusercontent.com/tongyuanfeng/qiaohe_web/master/img/add_weixinjpg.jpg
     target: _blank
 #  link:
 #    text: 测试
