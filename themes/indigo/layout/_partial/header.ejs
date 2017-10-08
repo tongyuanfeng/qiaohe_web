@@ -33,7 +33,11 @@
                 <%- config.subtitle %>
             <% } else if (page.layout === 'page' && page.description) {%>
                 <%- page.description %>
+            <% } else{%>
+            <%- config.subtitle %>
             <% } %>
+
+
         </h5>
     </div>
 

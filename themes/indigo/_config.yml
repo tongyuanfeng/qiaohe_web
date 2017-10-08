@@ -11,8 +11,8 @@ menu:
   home:
     text: 主页
     url: /
-#  archives:
-#    url: /archives
+  archives:
+    url: /archives
 #  tags:
 #    url: /tags
 #  th-list:
@@ -55,7 +55,7 @@ color: '#3F51B5'
 
 # 页面标题
 tags_title: Tags
-archives_title: Archives
+archives_title: 巧合--随时随地
 categories_title: Categories
 
 # 文章截断
