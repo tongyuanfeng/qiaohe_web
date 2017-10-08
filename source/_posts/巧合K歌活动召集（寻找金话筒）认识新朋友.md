@@ -17,7 +17,10 @@ tags:
 - 活动费用 
 - 活动费用：会员价39元/人，非会员价49元/人（关注巧合圈公众号且参加过一次活动即成为会员）
 - 费用说明：包含场地费用和活动组织费用
+
+![image](https://raw.githubusercontent.com/tongyuanfeng/qiaohe_web/master/img/photo/01f3c1342ed614c988c52caa75092fea1c44801ee6.jpg)
 # 活动详情
+
 
 - 【活动时间】 8月（周六周日）12：00
 - 【活动地点】 小寨KTV 
