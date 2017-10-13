@@ -10,7 +10,7 @@
 menu:
   home:
     text: 主页
-    url: /
+    url: /archives
   archives:
     url: /archives
 #  tags:
