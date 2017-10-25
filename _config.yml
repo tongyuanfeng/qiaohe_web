@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 巧合 
-subtitle: --感恩有你！
+title: 巧合
+subtitle: --随时随地！
 description:
 author: 巧合
 language:
@@ -12,13 +12,13 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://qiaohequan.com
-root: /
+url: http://qiaohequan.com/
+root:  /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
-source_dir: source
+source_dir: archives
 public_dir: public
 tag_dir: tags
 archive_dir: archives

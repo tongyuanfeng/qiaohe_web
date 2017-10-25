@@ -1,6 +1,6 @@
 <%- partial('_partial/header', {
-    title: theme.archives_title,
-    hdClass: 'archives-header'
+    title: theme.title,
+    hdClass: 'header'
 }) %>
 <div class="container body-wrap fade">
     <%
@@ -26,7 +26,8 @@
             m = nm;
     %>
             <% if(i > 0){%></div> <% } %>
-            <h3 class="archive-separator"><%=dt.format('MMMM, YYYY')%></h3>
+            <h3 class="archive-separator"></h3>
+<!--<h3 class="archive-separator">qiaohe<%=dt.format('YYYY')%>&#45;&#45;<%=dt.format('M')%>huodong</h3>-->
             <div class="waterfall">
     <%    } %>
 
