@@ -43,7 +43,7 @@ avatar: /img/avatar.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
-brand: /img/brand.jpg
+brand: https://raw.githubusercontent.com/tongyuanfeng/qiaohe_web/master/img/p48781310-3.jpg
 # favicon
 favicon: /favicon.ico
 
